@@ -48,9 +48,6 @@
   "suggest": {
     "kiwicommerce/module-cron-scheduler" : "^1.0.5"
   },
-  "conflict": {
-        "laminas/laminas-mvc": "*"
-  },
   "autoload": {
     "psr-4": {
       "Ls\\Core\\": "src/Core/",
