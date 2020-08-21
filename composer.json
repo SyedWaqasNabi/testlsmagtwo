@@ -38,7 +38,7 @@
     "laminas/laminas-servicemanager": "^2.7.8",
     "laminas/laminas-session": "^2.7.3",
     "laminas/laminas-soap": "^2.7.0",
-    "laminas/laminas-stdlib": "^3.2.1||^2.7.7",
+    "laminas/laminas-stdlib": "^2.7.7",
   "laminas/laminas-text": "^2.6.0",
     "laminas/laminas-uri": "^2.5.1",
     "laminas/laminas-validator": "^2.6.0",
