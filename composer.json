@@ -43,7 +43,7 @@
     "laminas/laminas-uri": "^2.5.1",
     "laminas/laminas-validator": "^2.6.0",
     "laminas/laminas-view": "~2.10.0 || ~2.11.2",
-    "laminas/laminas-barcode":"^2.6.0"
+    "laminas/laminas-barcode": "^2.6.0"
   },
   "suggest": {
     "kiwicommerce/module-cron-scheduler" : "^1.0.5"
